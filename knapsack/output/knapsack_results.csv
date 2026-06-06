@@ -1,0 +1,181 @@
+Algorithm,ItemCount_n,Capacity_C,BestValue,Time_ms,Space_bytes,Note
+BruteForce,1000,10000,-1.00,-1.000,-,n>40 skipped
+DP,1000,10000,127445.92,22.000,80008,
+Greedy,1000,10000,127333.31,0.000,-,Not optimal
+Backtracking,1000,10000,127445.92,1.000,-,
+BruteForce,1000,100000,-1.00,-1.000,-,n>40 skipped
+DP,1000,100000,266581.22,0.000,800008,
+Greedy,1000,100000,266581.22,0.000,-,Not optimal
+Backtracking,1000,100000,266581.22,2.000,-,
+BruteForce,1000,1000000,-1.00,-1.000,-,n>40 skipped
+DP,1000,1000000,266581.22,0.000,8000008,
+Greedy,1000,1000000,266581.22,0.000,-,Not optimal
+Backtracking,1000,1000000,266581.22,2.000,-,
+BruteForce,2000,10000,-1.00,-1.000,-,n>40 skipped
+DP,2000,10000,178427.20,41.000,80008,(reconstruction disabled for large n*C)
+Greedy,2000,10000,178351.87,1.000,-,Not optimal
+Backtracking,2000,10000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,2000,100000,-1.00,-1.000,-,n>40 skipped
+DP,2000,100000,529403.47,564.000,800008,
+Greedy,2000,100000,529376.52,0.000,-,Not optimal
+Backtracking,2000,100000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,2000,1000000,-1.00,-1.000,-,n>40 skipped
+DP,2000,1000000,530119.94,0.000,8000008,
+Greedy,2000,1000000,530119.94,1.000,-,Not optimal
+Backtracking,2000,1000000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,3000,10000,-1.00,-1.000,-,n>40 skipped
+DP,3000,10000,215638.87,67.000,80008,(reconstruction disabled for large n*C)
+Greedy,3000,10000,215638.87,0.000,-,Not optimal
+Backtracking,3000,10000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,3000,100000,-1.00,-1.000,-,n>40 skipped
+DP,3000,100000,683242.41,746.000,800008,
+Greedy,3000,100000,683171.52,1.000,-,Not optimal
+Backtracking,3000,100000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,3000,1000000,-1.00,-1.000,-,n>40 skipped
+DP,3000,1000000,791970.08,0.000,8000008,
+Greedy,3000,1000000,791970.08,1.000,-,Not optimal
+Backtracking,3000,1000000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,4000,10000,-1.00,-1.000,-,n>40 skipped
+DP,4000,10000,248690.34,79.000,80008,(reconstruction disabled for large n*C)
+Greedy,4000,10000,248690.34,0.000,-,Not optimal
+Backtracking,4000,10000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,4000,100000,-1.00,-1.000,-,n>40 skipped
+DP,4000,100000,794753.86,888.000,800008,
+Greedy,4000,100000,794746.91,1.000,-,Not optimal
+Backtracking,4000,100000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,4000,1000000,-1.00,-1.000,-,n>40 skipped
+DP,4000,1000000,1057308.77,0.000,8000008,
+Greedy,4000,1000000,1057308.77,1.000,-,Not optimal
+Backtracking,4000,1000000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,5000,10000,-1.00,-1.000,-,n>40 skipped
+DP,5000,10000,275064.42,103.000,80008,(reconstruction disabled for large n*C)
+Greedy,5000,10000,275036.25,2.000,-,Not optimal
+Backtracking,5000,10000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,5000,100000,-1.00,-1.000,-,n>40 skipped
+DP,5000,100000,888900.92,831.000,800008,(reconstruction disabled for large n*C)
+Greedy,5000,100000,888838.42,1.000,-,Not optimal
+Backtracking,5000,100000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,5000,1000000,-1.00,-1.000,-,n>40 skipped
+DP,5000,1000000,1325905.02,0.000,8000008,
+Greedy,5000,1000000,1325905.02,1.000,-,Not optimal
+Backtracking,5000,1000000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,6000,10000,-1.00,-1.000,-,n>40 skipped
+DP,6000,10000,297827.75,116.000,80008,(reconstruction disabled for large n*C)
+Greedy,6000,10000,297824.58,1.000,-,Not optimal
+Backtracking,6000,10000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,6000,100000,-1.00,-1.000,-,n>40 skipped
+DP,6000,100000,967337.47,986.000,800008,(reconstruction disabled for large n*C)
+Greedy,6000,100000,967327.92,2.000,-,Not optimal
+Backtracking,6000,100000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,6000,1000000,-1.00,-1.000,-,n>40 skipped
+DP,6000,1000000,1593046.03,0.000,8000008,
+Greedy,6000,1000000,1593046.03,2.000,-,Not optimal
+Backtracking,6000,1000000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,7000,10000,-1.00,-1.000,-,n>40 skipped
+DP,7000,10000,318756.71,130.000,80008,(reconstruction disabled for large n*C)
+Greedy,7000,10000,318657.11,1.000,-,Not optimal
+Backtracking,7000,10000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,7000,100000,-1.00,-1.000,-,n>40 skipped
+DP,7000,100000,1041523.46,1157.000,800008,(reconstruction disabled for large n*C)
+Greedy,7000,100000,1041470.75,2.000,-,Not optimal
+Backtracking,7000,100000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,7000,1000000,-1.00,-1.000,-,n>40 skipped
+DP,7000,1000000,1855051.77,0.000,8000008,
+Greedy,7000,1000000,1855051.77,3.000,-,Not optimal
+Backtracking,7000,1000000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,8000,10000,-1.00,-1.000,-,n>40 skipped
+DP,8000,10000,342957.21,153.000,80008,(reconstruction disabled for large n*C)
+Greedy,8000,10000,342957.21,2.000,-,Not optimal
+Backtracking,8000,10000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,8000,100000,-1.00,-1.000,-,n>40 skipped
+DP,8000,100000,1115757.27,1318.000,800008,(reconstruction disabled for large n*C)
+Greedy,8000,100000,1115723.58,2.000,-,Not optimal
+Backtracking,8000,100000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,8000,1000000,-1.00,-1.000,-,n>40 skipped
+DP,8000,1000000,2121998.16,1.000,8000008,
+Greedy,8000,1000000,2121998.16,2.000,-,Not optimal
+Backtracking,8000,1000000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,9000,10000,-1.00,-1.000,-,n>40 skipped
+DP,9000,10000,361803.86,168.000,80008,(reconstruction disabled for large n*C)
+Greedy,9000,10000,361784.87,2.000,-,Not optimal
+Backtracking,9000,10000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,9000,100000,-1.00,-1.000,-,n>40 skipped
+DP,9000,100000,1179880.75,1469.000,800008,(reconstruction disabled for large n*C)
+Greedy,9000,100000,1179861.84,2.000,-,Not optimal
+Backtracking,9000,100000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,9000,1000000,-1.00,-1.000,-,n>40 skipped
+DP,9000,1000000,2382271.70,0.000,8000008,
+Greedy,9000,1000000,2382271.70,2.000,-,Not optimal
+Backtracking,9000,1000000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,10000,10000,-1.00,-1.000,-,n>40 skipped
+DP,10000,10000,379746.72,186.000,80008,(reconstruction disabled for large n*C)
+Greedy,10000,10000,379688.70,3.000,-,Not optimal
+Backtracking,10000,10000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,10000,100000,-1.00,-1.000,-,n>40 skipped
+DP,10000,100000,1242108.73,1619.000,800008,(reconstruction disabled for large n*C)
+Greedy,10000,100000,1242052.53,3.000,-,Not optimal
+Backtracking,10000,100000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,10000,1000000,-1.00,-1.000,-,n>40 skipped
+DP,10000,1000000,2642816.80,0.000,8000008,
+Greedy,10000,1000000,2642816.80,2.000,-,Not optimal
+Backtracking,10000,1000000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,20000,10000,-1.00,-1.000,-,n>40 skipped
+DP,20000,10000,525419.77,367.000,80008,(reconstruction disabled for large n*C)
+Greedy,20000,10000,525363.89,5.000,-,Not optimal
+Backtracking,20000,10000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,20000,100000,-1.00,-1.000,-,n>40 skipped
+DP,20000,100000,1741639.40,3179.000,800008,(reconstruction disabled for large n*C)
+Greedy,20000,100000,1741621.88,4.000,-,Not optimal
+Backtracking,20000,100000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,20000,1000000,-1.00,-1.000,-,n>40 skipped
+DP,20000,1000000,-1.00,0.000,8000008,n*C>10^10 skipped
+Greedy,20000,1000000,5268491.44,5.000,-,Not optimal
+Backtracking,20000,1000000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,40000,10000,-1.00,-1.000,-,n>40 skipped
+DP,40000,10000,728063.89,726.000,80008,(reconstruction disabled for large n*C)
+Greedy,40000,10000,728024.79,10.000,-,Not optimal
+Backtracking,40000,10000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,40000,100000,-1.00,-1.000,-,n>40 skipped
+DP,40000,100000,2444445.16,6173.000,800008,(reconstruction disabled for large n*C)
+Greedy,40000,100000,2444407.21,11.000,-,Not optimal
+Backtracking,40000,100000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,40000,1000000,-1.00,-1.000,-,n>40 skipped
+DP,40000,1000000,-1.00,0.000,8000008,n*C>10^10 skipped
+Greedy,40000,1000000,7884108.27,11.000,-,Not optimal
+Backtracking,40000,1000000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,80000,10000,-1.00,-1.000,-,n>40 skipped
+DP,80000,10000,1004676.31,1179.000,80008,(reconstruction disabled for large n*C)
+Greedy,80000,10000,1004676.31,22.000,-,Not optimal
+Backtracking,80000,10000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,80000,100000,-1.00,-1.000,-,n>40 skipped
+DP,80000,100000,3441768.51,12246.000,800008,(reconstruction disabled for large n*C)
+Greedy,80000,100000,3441768.37,22.000,-,Not optimal
+Backtracking,80000,100000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,80000,1000000,-1.00,-1.000,-,n>40 skipped
+DP,80000,1000000,-1.00,0.000,8000008,n*C>10^10 skipped
+Greedy,80000,1000000,11135441.01,24.000,-,Not optimal
+Backtracking,80000,1000000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,160000,10000,-1.00,-1.000,-,n>40 skipped
+DP,160000,10000,1373962.86,2364.000,80008,(reconstruction disabled for large n*C)
+Greedy,160000,10000,1373882.97,45.000,-,Not optimal
+Backtracking,160000,10000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,160000,100000,-1.00,-1.000,-,n>40 skipped
+DP,160000,100000,-1.00,0.000,800008,n*C>10^10 skipped
+Greedy,160000,100000,4827480.54,43.000,-,Not optimal
+Backtracking,160000,100000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,160000,1000000,-1.00,-1.000,-,n>40 skipped
+DP,160000,1000000,-1.00,0.000,8000008,n*C>10^10 skipped
+Greedy,160000,1000000,15697828.48,44.000,-,Not optimal
+Backtracking,160000,1000000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,320000,10000,-1.00,-1.000,-,n>40 skipped
+DP,320000,10000,1839918.33,4710.000,80008,(reconstruction disabled for large n*C)
+Greedy,320000,10000,1839918.33,96.000,-,Not optimal
+Backtracking,320000,10000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,320000,100000,-1.00,-1.000,-,n>40 skipped
+DP,320000,100000,-1.00,0.000,800008,n*C>10^10 skipped
+Greedy,320000,100000,6700116.37,96.000,-,Not optimal
+Backtracking,320000,100000,-1.00,-1.000,-,n>1000 skipped
+BruteForce,320000,1000000,-1.00,-1.000,-,n>40 skipped
+DP,320000,1000000,-1.00,0.000,8000008,n*C>10^10 skipped
+Greedy,320000,1000000,22059662.39,99.000,-,Not optimal
+Backtracking,320000,1000000,-1.00,-1.000,-,n>1000 skipped

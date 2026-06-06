@@ -1,0 +1,7 @@
+Group,Seed,Algorithm,ComparisonCount
+Group1,42,BubbleSort,4845
+Group1,42,MergeSort,540
+Group1,42,QuickSort,892
+Group2,777,BubbleSort,4830
+Group2,777,MergeSort,545
+Group2,777,QuickSort,906
